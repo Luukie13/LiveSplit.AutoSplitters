@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <AutoSplitters>
     <AutoSplitter>
+	<Games>
+	    <Game>Blue Fire</Game>
+	</Games>
+	<URLs>
+	    <URL>https://raw.githubusercontent.com/Luukie13/bluefireAutosplitter/main/BlueFire.asl</URL>
+	</URLs>
+	<Type>Script</Type>
+	<Description>Syncs the igt with the setting "timer: on" to livesplit. Created by R30hedron and Luukie13</Description>
+	<Website>https://github.com/Luukie13/bluefireAutosplitter</Website>
+    </Autosplitter>
+    <AutoSplitter>
         <Games>
             <Game>Zébulon</Game>
         </Games>
